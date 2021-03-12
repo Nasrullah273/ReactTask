@@ -1,0 +1,43 @@
+.scheduleRoot {
+    width: 100%;
+}
+
+.scheduleHeader {
+    width: 95%;
+    margin-top: 15px;
+    height: 1180px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 10px #00000029;
+    opacity: 1;
+}
+.scheduleTitle {
+    width: 100%;
+}
+.scheduleTitle1 {
+  width: 90%;
+  display: flex;
+  margin: auto;
+}
+.accountTitle {
+width: 40%;
+margin-top: 25px;
+}
+.dateTilte {
+width: 40%;
+margin-top: 25px;
+float: right;
+margin-left: 730px;
+color: #A1A1A1;
+opacity: 1;
+position: relative;
+}
+.impNotice {
+    font-weight: 700;
+    margin-left: 45px;
+}
+.impNotice1 {
+    font-weight: 400;
+    margin-left: 45px;
+    color: #707071;
+    text-align: justify;
+}

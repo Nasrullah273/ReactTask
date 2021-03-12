@@ -1,0 +1,16 @@
+.listMenuTextAll {
+    color: #FFFF;
+    
+}
+.listMenuText {
+    font-weight: 200;
+    font-size: 3px;
+    font: normal;
+    opacity: 1;
+}
+.listMenuText:hover {
+    color: rgb(62, 114, 84);
+}
+.listMenuIcon {
+    color: #FFFF;
+}

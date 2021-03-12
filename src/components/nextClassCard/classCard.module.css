@@ -1,0 +1,47 @@
+.cardRoot {
+  width: 100%;
+}
+
+.cardHeader {
+  width: 90%;
+  display: flex;
+  padding: 10px;
+}
+
+.cardIcon {
+  color: #6457E8
+}
+
+.cardIcon1 {
+  color: #e8ae57
+}
+
+.cardIcon2 {
+  color: #058019
+}
+
+.cardBase {
+  width: 33%;
+}
+
+.cardBase1 {
+  width: 50%;
+  margin-left: 15px;
+}
+.cardBaseAttendance {
+width: 45%;
+}
+.cardBaseCalender {
+  width: 45%;
+  margin-left: 90px;
+}
+.rectangle {
+  top: 674px;
+left: 416px;
+width: 66px;
+height: 20px;
+background: #EEEDFC 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 3px;
+opacity: 1;
+}

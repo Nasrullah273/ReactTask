@@ -1,0 +1,16 @@
+.cardRoot {
+    width: 100%;
+  }
+.cardHeader {
+  width: 90%;
+  display: flex;
+}
+.cardIcon {
+ color: #6457E8
+}
+.cardIcon1 {
+    color: #e8ae57
+   }
+   .cardIcon2 {
+    color: #058019
+   }
